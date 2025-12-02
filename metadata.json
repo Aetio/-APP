@@ -1,0 +1,7 @@
+{
+  "name": "寻月志",
+  "description": "全功能的月相追踪与观测日记应用。查看实时月相、月出月落时间，并通过 AI 智能分析维护您的个人天象观测记录。",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
